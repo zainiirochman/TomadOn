@@ -1,3 +1,4 @@
+![poster TomadOn fikss](https://github.com/zainiirochman/TomadOn/assets/133016739/e3019919-2347-4ad3-92cf-dbdcd04cd3ef)
 Aplikasi TomadOn atau Toko Madura Online adalah sebuah aplikasi berbasis web yang memudahkan pelanggan dan pengelola toko kelontong dalam melakukan jual beli. Dilengkapi dengan fitur kategori, keranjang, stok, harga detail, dan lain sebagainya.
 
 Tugas ini dibuat untuk memenuhi tugas Mata Kuliah Pemrograman Web, oleh kelompok 3 : 
